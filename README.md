@@ -19,7 +19,8 @@ O objetivo é explorar dados de filmes, usuários e avaliações, praticando **l
 - SQLite  
 - Jupyter Notebook  
 
-🧪 Como usar
+🧪 Como usar:
+
 git clone https://github.com/clarisdev/analise_tratamento_filmes.git
 pip install -r requirements.txt
 
